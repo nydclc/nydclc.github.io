@@ -1,7 +1,7 @@
 ---
 layout: page
-title: About the project
-subtitle: Why you'd want to go on a date with me
+title: About
+subtitle: The Carpentries & NYDCLC
 ---
 
 Some details here... 

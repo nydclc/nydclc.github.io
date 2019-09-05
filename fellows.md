@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Fellows
+title: NYDCLC Fellows
 subtitle: Call for Participation
 ---
 

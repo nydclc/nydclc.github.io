@@ -4,7 +4,14 @@ title: About
 subtitle: The Carpentries & NYDCLC
 ---
 
-Some details here... 
-### my history
+### NYDCLC Fellows
+Eliza Bettinger, Digital Humanities Librarian, Cornell University
+Jesi Buell, Instructional Design & Web Librarian at Colgate University
+Adrienne Canino, Outreach Librarian for Science and Engineering, Data Science, and Environmental Science, University of Rochester
+Josh Finnell, Head of Research & Instruction, Colgate University
+Déirdre Joyce, Head, Digital Library Program, Syracuse University
+Emily Sherwood, Director of the Digital Scholarship Lab, University of Rochester (Project Director)
+Patrick Williams, Librarian for Literature, Rhetoric, and Digital Humanities, Syracuse University
 
-To be honest, I'm having some trouble remembering right now, so why don't you just watch [my movie](http://en.wikipedia.org/wiki/The_Princess_Bride_%28film%29) and it will answer **all** your questions.
+Link to Fellows CFP?
+

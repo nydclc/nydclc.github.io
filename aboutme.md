@@ -4,7 +4,7 @@ title: About
 subtitle: The Carpentries & NYDCLC
 ---
 
-### NYDCLC Fellows
+### New York Data Carpentries Library Consortium Fellows
 Eliza Bettinger, Digital Humanities Librarian, Cornell University
 
 Jesi Buell, Instructional Design & Web Librarian at Colgate University
@@ -20,4 +20,9 @@ Emily Sherwood, Director of the Digital Scholarship Lab, University of Rochester
 Patrick Williams, Librarian for Literature, Rhetoric, and Digital Humanities, Syracuse University
 
 Link to Fellows CFP?
+
+
+Contact the NYDCLC Fellows at [nycarpentries@gmail.com](mailto:nycarpenties@gmail.com)
+
+Follow us on Twitter: [@NYDCLC] (https://twitter.com/nydclc)
 

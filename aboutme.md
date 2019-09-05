@@ -5,7 +5,7 @@ subtitle: The Carpentries & NYDCLC
 ---
 
 ### What are the Carpentries?
-The Carpentries(https://carpentries.org/)’ workshops are hands-on one or two-day events that cover the core skills needed to be productive in a small team. Instruction sessions are integrated with practical exercises, and all instruction is done via live coding.
+[The Carpentries'](https://carpentries.org/) workshops are hands-on one or two-day events that cover the core skills needed to be productive in a small team. Instruction sessions are integrated with practical exercises, and all instruction is done via live coding.
 
 Library Carpentry workshops are designed to help library professionals. Lessons include SQL, web scraping, data cleaning and tidying. 
 

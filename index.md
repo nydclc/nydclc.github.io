@@ -1,6 +1,6 @@
 ---
 layout: page
-title: NY Carpentries Collaboration
+title: New York Data Carpentries Library Consortium (NYDCLC)
 subtitle: Welcome to the home for collaborative data education in central + western NY
 use-site-title: true
 ---

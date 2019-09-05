@@ -24,5 +24,5 @@ Link to Fellows CFP?
 
 Contact the NYDCLC Fellows at [nycarpentries@gmail.com](mailto:nycarpenties@gmail.com)
 
-Follow us on Twitter: [@NYDCLC] (https://twitter.com/nydclc)
+Follow us on Twitter: [@NYDCLC](https://twitter.com/nydclc)
 

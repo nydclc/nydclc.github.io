@@ -4,25 +4,16 @@ title: About
 subtitle: The Carpentries & NYDCLC
 ---
 
-### New York Data Carpentries Library Consortium Fellows
-Eliza Bettinger, Digital Humanities Librarian, Cornell University
+### What are the Carpentries?
+The Carpentries(https://carpentries.org/)’ workshops are hands-on one or two-day events that cover the core skills needed to be productive in a small team. Instruction sessions are integrated with practical exercises, and all instruction is done via live coding.
 
-Jesi Buell, Instructional Design & Web Librarian at Colgate University
+Library Carpentry workshops are designed to help library professionals. Lessons include SQL, web scraping, data cleaning and tidying. 
 
-Adrienne Canino, Outreach Librarian for Science and Engineering, Data Science, and Environmental Science, University of Rochester
+Data Carpentry workshops are domain-specific, and follow a narrative structure, working with one dataset through the whole data lifecycle from project organization to visualization.
 
-Josh Finnell, Head of Research & Instruction, Colgate University
+---
 
-Déirdre Joyce, Head, Digital Library Program, Syracuse University
-
-Emily Sherwood, Director of the Digital Scholarship Lab, University of Rochester (Project Director)
-
-Patrick Williams, Librarian for Literature, Rhetoric, and Digital Humanities, Syracuse University
-
-Link to Fellows CFP?
-
-
-Contact the NYDCLC Fellows at [nycarpentries@gmail.com](mailto:nycarpenties@gmail.com)
+Interested in attending a workshop?  Contact the NYDCLC Fellows at [nycarpentries@gmail.com](mailto:nycarpenties@gmail.com)
 
 Follow us on Twitter: [@NYDCLC](https://twitter.com/nydclc)
 

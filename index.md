@@ -13,6 +13,6 @@ NYDCLC Members receive:
 * An opportunity to refine skills as instructors at other member institutions
 
 Interested in joining NYDCLC?  
-Please contact xxx
+Please contact nycarpentries@gmail.com
 
 Our work for 2019-2020 has been generously funded by the [Institute of Museum and Libraries Services (IMLS) Laura Bush 21st Century Librarian Grant](https://www.imls.gov/grants/awarded/re-11-19-0047-19).

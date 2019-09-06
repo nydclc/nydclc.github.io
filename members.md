@@ -22,8 +22,8 @@ subtitle: NYDCLC Members
   <tr><td rowspan="3" width="20%"><img src="/img/sulib.png" alt="Syracuse University logo"></td>
     <td><div style="width:100px;float:left;margin:10px"><img src="/img/joyce.jpg" alt="Joyce photo"></div><div><b>Déirdre Joyce</b> is the Head of the Digital Library Program at Syracuse University where she manages its day-to-day operations. She also has responsibility for all digital library metadata planning across all implementation and remediation efforts. Her previous experience working with the Empire State Library Network gives her unique insight into the workings of the region’s multitype, public, and school library systems. Finally, she is a certified synchronous learning expert (SLE), with competencies in course design and facilitation in an online environment.</div></td></tr>
   <tr><td><div style="width:100px;float:left;margin:10px"><img src="/img/Williams-Patrick.jpg" alt="Patrick Williams photo"></div><div><b>Patrick Williams</b> is Librarian for Literature, Rhetoric, and Digital Humanities in the Syracuse University Libraries. He works with faculty and students in a variety of disciplines to bring digital approaches to their teaching, research, and creative projects. He teaches IST 600: Digital Humanities for Librarians, Archivists, and Cultural Heritage Workers at the Syracuse University School of Information Studies, a course he developed to prepare current and future information professionals to engage digital literacies in positions across the wide range of GLAM settings. He is co-Editor-in-Chief of dh+lib, a publication focused on the intersection of digital humanities and librarians hosted by the Association of College & Research Libraries (ACRL). 
-</div></td></tr>
-
+</div></td></tr></table>
+  
 <table>
   <tr><td rowspan="3" width="20%"><img src="/img/rochester.png" alt="University of Rochester logo"></td>
   <tr><td><div style="width:100px;float:left;margin:10px"><img 

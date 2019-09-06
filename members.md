@@ -8,9 +8,9 @@ subtitle: NYDCLC Members
 
 
 <table>
-  <tr><td rowspan="3" width="20%"><img src="/images/Brown.png" alt="Brown University logo"></td>
-    <td><div style="width:100px;float:left;margin:10px"><img src="/images/AC_Brown.jpg" alt="Andrew Creamer photo"></div><div><b>Jesi Buell</b> is the Instructional Design and Web Librarian at Colgate University and she specializes in web design, online learning, digital & visual literacies, user experience, and design-thinking methodology.</div></td></tr>
-  <tr><td><div style="width:100px;float:left;margin:10px"><img src="/images/BB_Brown.png" alt="Bruce Boucek photo"></div><div><b>Joshua Finnell</b> is dfjlaskdjf;alksdjf.</div></td></tr>
+  <tr><td rowspan="3" width="20%"><img src="/img/colgate.jpg" alt="Colgate University logo"></td>
+    <td><div style="width:100px;float:left;margin:10px"><img src="/img/jesibender.jpg" alt="Jesi Buell photo"></div><div><b>Jesi Buell</b> is the Instructional Design and Web Librarian at Colgate University and she specializes in web design, online learning, digital & visual literacies, user experience, and design-thinking methodology.</div></td></tr>
+  <tr><td><div style="width:100px;float:left;margin:10px"><img src="/img/joshfinnell.png" alt="Joshua Finnell photo"></div><div><b>Joshua Finnell</b> is dfjlaskdjf;alksdjf.</div></td></tr>
 </table>
 
 <table>
@@ -27,7 +27,6 @@ subtitle: NYDCLC Members
 
 <table>
   <tr><td rowspan="3" width="20%"><img src="/images/mountholyokecollege.png" alt="Mount Holyoke College logo"></td>
-    <td><div style="width:100px;float:left;margin:10px"><img src="/images/Burkeapr18.jpg" alt="James Burke photo"></div><div><b>James Burke</b> </div></td></tr>
   <tr><td><div style="width:100px;float:left;margin:10px"><img 
 src="/images/soelker2015.jpg" alt="Sarah Oelker 
 photo"></div><div><b>Adrienne Canino</b>is Science & Data Outreach Librarian at University of Rochester, where she leads cross-departmental initiatives in data literacy and data outreach services.  She runs workshops in research data management skills to all audiences, from makerspace programming to faculty brown-bags.</div></td></tr> 

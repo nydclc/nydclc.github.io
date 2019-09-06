@@ -14,13 +14,13 @@ The New York Data Carpentries Library Consortium is an IMLS Laura Bush 21st Cent
 Individuals working in public, school, special, or public college libraries in central and western New York.  Applicants should have a demonstrated interest in technology and data as well as engagement with teaching and/or instruction.  
 
 ### Commitments
-
 Steering Committee Fellows would need to:
 * Attend one skills-based workshop and Spring instructor training in person (will be funded by our grant)
 * Attend monthly committee meetings virtually 
 * Serve on a subcommittee dedicated to marketing, carpentries liaison, or data needs surveying
 * Attend and present at final Symposium 
 * Commit to running a workshop in their local community within six months of end of grant (Spring 2020)
+
 
 ### Benefits
 

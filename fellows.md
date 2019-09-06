@@ -23,6 +23,7 @@ Steering Committee Fellows would need to:
 * Commit to running a workshop in their local community within six months of end of grant (Spring 2020)
 
 ### Benefits
+
 * Become a certified Carpentries instructor
 * Stipends to attend workshops
 * Contribute to the development of the future direction and priorities of the NYDCLC
@@ -30,16 +31,17 @@ Steering Committee Fellows would need to:
 * Access to community of experts
 
 ### Application Process
+
 Please email a statement of interest to [nycarpentries@gmail.com](mailto:nycarpentries@gmail.com) before October 6 2019.  Statements should not exceed 500 words.  Please include why you are interested and what skills you hope to gain or strengthen.    
 
 Additionally, please indicate which workshop can you attend:
-* date1
-* date2
-* date3
+* October 25, 2019
+* November 1, 2019
+* November 7, 2019
 
 Applications for steering committee fellowships are due October 6.  If you need further information on serving on the committee, please email [nycarpentries@gmail.com](mailto:nycarpentries@gmail.com).  If you are interested in attending a workshop, please visit see our workshop schedule. 
 
 ### Diversity statement
 
-
+NYDCLC is committed to supporting and promoting library professionals from marginalized communities and identities.  We believe that an inclusive committee fuels innovation and connection. We encourage diverse candidates to apply.
 

@@ -43,5 +43,5 @@ Applications for steering committee fellowships are due October 6.  If you need 
 
 ### Diversity statement
 
-NYDCLC is committed to supporting and promoting library professionals from marginalized communities and identities.  We believe that an inclusive committee fuels innovation and connection. We encourage diverse candidates to apply.
+NYDCLC is committed to supporting and promoting library professionals from marginalized communities and identities.  We believe that an inclusive committee fuels innovation and connection. We encourage applications from candidates of all ethnic and racial backgrounds, military backgrounds, religious beliefs, socio-economic status, cultural traditions, abilities, sexual orientations, and gender identities.
 

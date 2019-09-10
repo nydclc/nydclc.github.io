@@ -4,7 +4,7 @@ title: Needs Survey
 subtitle: NYDCLC Needs Survey
 ---
 
-The University of Rochester River Campus Libraries, Colgate University, Cornell University, and Syracuse University, have been awarded [a 2019 Laura Bush 21st Century Librarian Planning Grant](https://www.imls.gov/grants/awarded/re-11-19-0047-19) to plan and pilot a skill-sharing program, the New York Data Carpentries Learning Consortium. 
+The University of Rochester River Campus Libraries, Colgate University, Cornell University, and Syracuse University, have been awarded [a 2019 Laura Bush 21st Century Librarian Planning Grant](https://www.imls.gov/grants/awarded/re-11-19-0047-19) to plan and pilot a skill-sharing program, the New York Data Carpentries Library Consortium. 
 
 As part of our planning, we want to hear from you. [Please complete this survey (10 minutes)](https://colgate.co1.qualtrics.com/jfe/form/SV_bjijXlpshWL2TcN), which will help us assess the digital and data skills that are most relevant for our work.
 

@@ -37,7 +37,7 @@ Please email a statement of interest to [nycarpentries@gmail.com](mailto:nycarpe
 Additionally, please indicate which [workshop](https://nydclc.github.io/workshops/) can you attend:
 * October 25, 2019
 * November 1, 2019
-* November 7, 2019
+* November 7 & 8, 2019 (2-day workshop)
 
 Applications for steering committee fellowships are due October 6.  If you need further information on serving on the committee, please email [nycarpentries@gmail.com](mailto:nycarpentries@gmail.com).  If you are interested in attending a workshop, please visit see our workshop schedule. 
 

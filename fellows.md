@@ -4,7 +4,7 @@ title: NYDCLC Fellows
 subtitle: Call for Participation
 ---
 
-### Call for NYDCLC Steering Committee Fellows
+### Call for NYDCLC Steering Committee Fellows (CLOSED)
 
 The New York Data Carpentries Library Consortium is an IMLS Laura Bush 21st Century Librarian Planning Grant to develop a skills-sharing program for library professionals across academic, public, and school settings specifically focused on data science skills.  This planning grant will allow us to establish governance for a local community of practice focused on accessing, analyzing, using, and visualizing data. 
 
@@ -30,7 +30,7 @@ Steering Committee Fellows would need to:
 * Networking and building a community of practice
 * Access to community of experts
 
-### Application Process
+### Application Process (CLOSED)
 
 Please email a statement of interest to [nycarpentries@gmail.com](mailto:nycarpentries@gmail.com) before October 6 2019.  Statements should not exceed 500 words.  Please include why you are interested and what skills you hope to gain or strengthen.    
 

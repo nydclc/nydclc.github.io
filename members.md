@@ -26,6 +26,13 @@ subtitle: NYDCLC Members
   <tr><td rowspan="3" width="20%"><img src="https://www.schenectadycounty.com/sites/default/files/SCPL%20Slider%20wShadow.jpg" alt="schenectady county public library new york"></td>
     <td><div style="width:100px;float:left;margin:10px"><img src="/img/MAW pic Oct19.jpg" alt="Williams photo"></div><div><b>Mary Ann Warner</b> is Adult Services Coordinator at Schenectady County Public Library, managing adult collection, technical and information services.  In her various roles at SCPL she has initiated computer and digital literacy programs; implemented downloadable content services; and trained staff and patrons in the use of digital services and related devices.   Her current interests include identifying and conveying practical data analytics concepts for wider use in public libraries particularly in the areas of collection and information services development.</div></td></tr></table>
  
+ 
+ <table>
+  <tr><td rowspan="3" width="20%"><img src="/img/SCRLC-Logo-w-tag-rgb-trimmed.png" alt="South Central Regional Library Council"></td>
+    <td><div style="width:100px;float:left;margin:10px"><img src="/img/JCorrice.png" alt="Corrice photo"></div><div><b>Julia Corrice</b> is the Digital Services Librarian for the South Central Regional Library Council, a member of the Empire State Library Network. Her responsibilities include managing regional participation in New York Heritage, New York State Historic Newspapers, and Empire ADC, as well as consulting with member libraries on digitization and digital asset management, metadata creation, cataloging, and project management.</div></td></tr></table>
+ 
+ 
+ 
   <table>
   <tr><td rowspan="3" width="20%"><img src="https://www.stls.org/wp-content/uploads/2015/04/little-logo-2.png" alt="Southern Tier Library System"></td>
     <td><div style="width:100px;float:left;margin:10px"><img src="https://www.nyla.org/userfiles/Bulletin_Images/WEB-TIM-FURGAL.jpg" alt="Furgal photo"></div><div><b>Timothy Furgal</b> is the E-Rate and Procurement Consultant for the Southern Tier Library System. In addition to his role in making internet connectivity and technology affordable through e-rate reimbursements and centralized procurement, Timothy leads training which builds technological capacity in rural library communities.</div></td></tr></table>

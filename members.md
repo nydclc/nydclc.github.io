@@ -17,7 +17,9 @@ subtitle: NYDCLC Members
   <tr><td rowspan="3" width="20%"><img src="/img/cul-logo-white.gif" alt="Cornell University logo"></td>
     <td><div style="width:100px;float:left;margin:10px"><img src="/img/eliza.jpg" alt="Eliza Bettinger photo"></div><div><b>Eliza Bettinger</b> is Lead Librarian for Digital Scholarship at Cornell University Library.</div></td></tr>
  </table>
-  
+  <table>
+  <tr><td rowspan="3" width="20%"><img src="https://www.stls.org/wp-content/uploads/2015/04/little-logo-2.png" alt="Southern Tier Library System"></td>
+    <td><div style="width:100px;float:left;margin:10px"><img src="https://www.nyla.org/userfiles/Bulletin_Images/WEB-TIM-FURGAL.jpg" alt="Furgal photo"></div><div><b>Timothy Furgal</b> is the E-Rate and Procurement Consultant for the Southern Tier Library System. In addition to his role in making internet connectivity and technology affordable through e-rate reimbursements and centralized procurement, Timothy leads training which builds technological capacity in rural library communities.</div></td></tr></table>
 <table>
   <tr><td rowspan="3" width="20%"><img src="https://library.syr.edu/_siteassets/img-wordmark-main.svg" alt="Syracuse University logo"></td>
     <td><div style="width:100px;float:left;margin:10px"><img src="/img/joyce.jpg" alt="Joyce photo"></div><div><b>Déirdre Joyce</b> is the Head of the Digital Library Program at Syracuse University where she manages its day-to-day operations. She also has responsibility for all digital library metadata planning across all implementation and remediation efforts. Her previous experience working with the Empire State Library Network gives her unique insight into the workings of the region’s multitype, public, and school library systems. Finally, she is a certified synchronous learning expert (SLE), with competencies in course design and facilitation in an online environment.</div></td></tr>

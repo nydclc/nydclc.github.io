@@ -17,6 +17,11 @@ subtitle: NYDCLC Members
   <tr><td rowspan="3" width="20%"><img src="/img/cul-logo-white.gif" alt="Cornell University logo"></td>
     <td><div style="width:100px;float:left;margin:10px"><img src="/img/eliza.jpg" alt="Eliza Bettinger photo"></div><div><b>Eliza Bettinger</b> is Lead Librarian for Digital Scholarship at Cornell University Library.</div></td></tr>
  </table>
+ 
+  <table>
+  <tr><td rowspan="3" width="20%"><img src="https://www.schenectadycounty.com/sites/default/files/SCPL%20Slider%20wShadow.jpg" alt="schenectady county public library new york"></td>
+    <td><div style="width:100px;float:left;margin:10px"><img src="/img/MAW pic Oct19.jpg" alt="Williams photo"></div><div><b>Mary Ann Warner</b> is Adult Services Coordinator at Schenectady County Public Library, managing adult collection, technical and information services.  In her various roles at SCPL she has initiated computer and digital literacy programs; implemented downloadable content services; and trained staff and patrons in the use of digital services and related devices.   Her current interests include identifying and conveying practical data analytics concepts for wider use in public libraries particularly in the areas of collection and information services development.</div></td></tr></table>
+ 
   <table>
   <tr><td rowspan="3" width="20%"><img src="https://www.stls.org/wp-content/uploads/2015/04/little-logo-2.png" alt="Southern Tier Library System"></td>
     <td><div style="width:100px;float:left;margin:10px"><img src="https://www.nyla.org/userfiles/Bulletin_Images/WEB-TIM-FURGAL.jpg" alt="Furgal photo"></div><div><b>Timothy Furgal</b> is the E-Rate and Procurement Consultant for the Southern Tier Library System. In addition to his role in making internet connectivity and technology affordable through e-rate reimbursements and centralized procurement, Timothy leads training which builds technological capacity in rural library communities.</div></td></tr></table>

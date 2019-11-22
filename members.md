@@ -8,6 +8,11 @@ subtitle: NYDCLC Members
 
 
 <table>
+  <tr><td rowspan="3" width="20%"><img src="http://www.chittenangoschools.org/images/logo_header.png" alt="Chittenango School logo"></td>
+    <td><div style="width:100px;float:left;margin:10px"><img src="/img/RegitanoPhoto.jpeg" alt="Jessica Regitano photo"></div><div><b>Jessica Regitano</b> is the Library Media Specialist at <a href="https://www.cmslib.org/">Chittenango Middle School</a> where she teaches library and research skills to students in grades five through eight, serves on multiple committees, and organizes a variety of extracurricular clubs and events. She also is the co-director of <a href="https://www.gemssummercamp.com/">GEMS+ Summer Camp</a>, a STEAM summer camp for tween girls that includes social activism, civic engagement, and social-emotional learning components, along with partnerships with different local nonprofits each year. Jessica is serving as 2019-2020 Central New York School Librarians Professional Development Chair and as the co-chair for the 2020 Annual Conference of the New York Library Association Section of School Librarians. She was awarded a 2019 “Soaring with Excellence School Librarian Award” by the Central New York School Librarians, and she was named a 2019 New York Library Association Developing Leader and a 2020 American Library Association Emerging Leader. </div></td></tr>
+ </table>
+
+<table>
   <tr><td rowspan="3" width="20%"><img src="/img/colgate.jpg" alt="Colgate University logo"></td>
     <td><div style="width:100px;float:left;margin:10px"><img src="/img/jesibender.jpg" alt="Jesi Buell photo"></div><div><b>Jesi Buell</b> is the Instructional Design and Web Librarian at Colgate University and she specializes in web design, online learning, digital & visual literacies, user experience, and design-thinking methodology.</div></td></tr>
   <tr><td><div style="width:100px;float:left;margin:10px"><img src="/img/joshfinnell.png" alt="Joshua Finnell photo"></div><div><b>Joshua Finnell</b> leads research and instruction initiatives in the University Libraries at Colgate University in Hamilton, NY, with a focus on research data management. He has served on the steering committee for the DMPTool and the planning committee for both the Digital Library Forum and the Research Data Access & Preservation Summit. </div></td></tr>

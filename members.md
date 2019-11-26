@@ -21,6 +21,7 @@ subtitle: NYDCLC Members
 <table>
   <tr><td rowspan="3" width="20%"><img src="/img/cul-logo-white.gif" alt="Cornell University logo"></td>
     <td><div style="width:100px;float:left;margin:10px"><img src="/img/eliza.jpg" alt="Eliza Bettinger photo"></div><div><b>Eliza Bettinger</b> is Lead Librarian for Digital Scholarship at Cornell University Library.</div></td></tr>
+  <tr><td><div style="width:100px;float:left;margin:10px"><img src="/img/Kozlowski_20190930cr.jpeg" alt="Wendy Kozlowski photo"></div><div><b>Wendy Kozlowski</b> is the Data Curation Specialist and Coordinator of the Research Data Management Service Group at Cornell University. Her interests include data sharing, data curation, science metadata, data analysis, workflows and organization, and open data/open science.</div></td></tr>
  </table>
  
    <table>

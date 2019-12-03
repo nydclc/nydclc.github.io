@@ -29,7 +29,7 @@ subtitle: NYDCLC Members
     <td><div style="width:100px;float:left;margin:10px"><img src="/img/photo_ryan_hughes.jpeg" alt="Hughes photo"></div><div><b>Ryan Hughes</b> is Digital Initiatives Librarian for the Rochester Regional Library Council. His experience includes a background in large and small urban libraries, library and project management, software training, and community engagement.  As Digital Initiatives Librarian, Ryan coordinates member library participation in New York Heritage, New York State Historic Newspapers and Empire ADC.  He advises members on metadata creation, copyright issues, and project management for digital collections.</div></td></tr></table>
  
   <table>
-  <tr><td rowspan="3" width="20%"><img src="img/SCPL_COLOR_WEB.jpg" alt="schenectady county public library new york"></td>
+  <tr><td rowspan="3" width="20%"><img src="https://github.com/nydclc/nydclc.github.io/blob/master/img/SCPL_COLOR_WEB.jpg?raw=true" alt="schenectady county public library new york"></td>
     <td><div style="width:100px;float:left;margin:10px"><img src="/img/MAW pic Oct19.jpg" alt="Williams photo"></div><div><b>Mary Ann Warner</b> is Adult Services Coordinator at Schenectady County Public Library, managing adult collection, technical and information services.  In her various roles at SCPL she has initiated computer and digital literacy programs; implemented downloadable content services; and trained staff and patrons in the use of digital services and related devices.   Her current interests include identifying and conveying practical data analytics concepts for wider use in public libraries particularly in the areas of collection and information services development.</div></td></tr></table>
  
  

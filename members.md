@@ -52,7 +52,7 @@ subtitle: NYDCLC Members
 <table>
   <tr><td rowspan="3" width="20%"><img src="/img/rochester.png" alt="University of Rochester logo"></td>
   <td><div style="width:100px;float:left;margin:10px"><img 
-src="/img/canino.jpg" alt="Adrienne Canino photo">Blair Tinker is currently the GIS specialist for the Digital Scholarship Lab at the University of Rochester. After receiving his MA in geography from Binghamton University he spent time teaching and practicing GIS and related spatial technologies in Virginia and California. His interests include mapping/GIS, data visualization and open source spatial tools. He also teaches a multidisciplinary introductory GIS course each fall.</div><div>.</div></td></tr> 
+src="/img/Blair Tinker Headshot.png" alt="Blair Tinker Photo">Blair Tinker is currently the GIS specialist for the Digital Scholarship Lab at the University of Rochester. After receiving his MA in geography from Binghamton University he spent time teaching and practicing GIS and related spatial technologies in Virginia and California. His interests include mapping/GIS, data visualization and open source spatial tools. He also teaches a multidisciplinary introductory GIS course each fall.</div><div></div></td></tr> 
 <tr><td><div style="width:100px;float:left;margin:10px"><img 
 src="/img/emilysherwood.png" alt="Emily Sherwood
 photo"></div><div><b>Emily Sherwood</b> is Director of the Digital Scholarship Lab at University of Rochester. She has extensive experience in helping faculty design and implement digital projects in courses. As an instructor for the Association of Research Libraries Digital Scholarship Institute, Emily designs and runs workshops to help train librarians in digital scholarship methods and tools.

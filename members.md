@@ -57,3 +57,17 @@ src="/img/Blair Tinker Headshot.png" alt="Blair Tinker Photo"></div><div>Blair T
 src="/img/emilysherwood.png" alt="Emily Sherwood
 photo"></div><div><b>Emily Sherwood</b> is Director of the Digital Scholarship Lab at University of Rochester. She has extensive experience in helping faculty design and implement digital projects in courses. As an instructor for the Association of Research Libraries Digital Scholarship Institute, Emily designs and runs workshops to help train librarians in digital scholarship methods and tools.
 </div></td></tr></table>
+
+
+### 2019-2020 NYDCLC Fellows
+
+
+<table>
+  <tr>
+  <td><div style="width:100px;float:left;margin:10px"><img 
+src="/img/canino.jpg" alt="Adrienne Canino Photo"></div><div><b>Adrienne Canino</b> is Science & Data Outreach Librarian at University of Rochester, where she leads cross-departmental initiatives in data literacy and data outreach services.  She runs workshops in research data management skills to all audiences, from makerspace programming to faculty brown-bags</div></td></tr> 
+<tr><td><div style="width:100px;float:left;margin:10px"><img 
+src="/img/emilysherwood.png" alt="Emily Sherwood
+photo"></div><div><b>text</b> text
+</div></td></tr></table>
+

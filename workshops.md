@@ -4,6 +4,14 @@ title: Workshops
 subtitle: Libraries & Data Carpentries Workshop
 ---
 
+## Spring 2020 Workshops & Events
+
+Venue | Dates | Topic
+---|---|---
+
+Port Watson Mini-Conference Center, Cortland | March 4 & 5 | [Data Carpentry (Social Sciences)](https://datacarpentry.org/socialsci-workshop/)
+Colgate University | June 19 | NYDCLC Data Symposium
+
 ## Fall 2019 Workshops
 
 Venue | Dates | Lessons

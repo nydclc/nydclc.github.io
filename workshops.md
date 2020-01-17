@@ -18,7 +18,7 @@ Venue | Dates | Lessons
 ---|---|---
 SUNY-Oneonta | October 25, 2019 | [Library Carpentry - Intro to Data and OpenRefine](https://nydclc.github.io/2019-10-25-oneonta/)
 Henrietta Library Public Library (Rochester) | November 1, 2019 | [Library Carpentry - Intro to Data, Intro to Git: Pages, and Tidy Data: Spreadsheets](https://nydclc.github.io/2019-11-01-rochester/)
-Syracuse Area | TBD (early 2020)  | Data Carpentry
+
 
 
 ### Bursaries

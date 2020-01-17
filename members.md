@@ -65,6 +65,6 @@ photo"></div><div><b>Emily Sherwood</b> is Director of the Digital Scholarship L
 <table>
   <tr>
   <td><div style="width:100px;float:left;margin:10px"><img 
-src="/img/canino.jpg" alt="Adrienne Canino Photo"></div><div><b>Adrienne Canino</b> is Science & Data Outreach Librarian at University of Rochester, where she leads cross-departmental initiatives in data literacy and data outreach services.  She runs workshops in research data management skills to all audiences, from makerspace programming to faculty brown-bags.</div></td></tr> 
+src="/img/canino.jpg" alt="Adrienne Canino Photo"></div><div><b>Adrienne Canino</b> is a librarian, science literacy enthusiast, and sci-fi fan. Her work experience has stretched from environmental outreach program coordination to data librarianship. She earned a Masters in Professional Studies in Environmental Studies from State University of New York College of Environmental Science and Forestry in 2014 and a Masters in Library and Information Science from Syracuse University in 2018. Her career has included leading cross-departmental initiatives in data literacy and research data services, digital archiving work, coordinating a youth conservation corps program, and planting many trees.</div></td></tr> 
 </table>
 

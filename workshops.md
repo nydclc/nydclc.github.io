@@ -8,7 +8,7 @@ subtitle: Libraries & Data Carpentries Workshop
 
 Venue | Dates | Topic
 ---|---|---
-Port Watson Mini-Conference Center, Cortland | March 4 & 5 | [Data Carpentry (Social Sciences)](https://nydclc.github.io/2020-03-05-Cortland/)
+Port Watson Mini-Conference Center, Cortland | March 5 & 6 | [Data Carpentry (Social Sciences)](https://nydclc.github.io/2020-03-05-Cortland/)
 Colgate University | June 19 | NYDCLC Data Symposium
 
 ## Fall 2019 Workshops

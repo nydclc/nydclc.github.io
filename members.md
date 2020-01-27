@@ -58,6 +58,15 @@ src="/img/emilysherwood.png" alt="Emily Sherwood
 photo"></div><div><b>Emily Sherwood</b> is Director of the Digital Scholarship Lab at University of Rochester. She has extensive experience in helping faculty design and implement digital projects in courses. As an instructor for the Association of Research Libraries Digital Scholarship Institute, Emily designs and runs workshops to help train librarians in digital scholarship methods and tools.
 </div></td></tr></table>
 
+### Instructors
+
+
+<table>
+  <tr>
+  <td><div style="width:100px;float:left;margin:10px"><img 
+src="/img/pugachev.jpg" alt="Sarah Pugachev Photo"></div><div><b>Sarah Pugachev </b> is the Research Initiatives at the University of Rochester. In this role, she works with partners across campus on projects to increase the visibility of scholarship and better understand research impact.  She is passionate about helping librarians and researchers develop digital skills. Sarah has been involved with The Carpentries as an instructor since 2016 and as an instructor trainer since 2018. </div></td></tr> 
+</table>
+
 
 ### Former NYDCLC Fellows
 

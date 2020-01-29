@@ -75,5 +75,7 @@ src="/img/pugachev.jpg" alt="Sarah Pugachev Photo"></div><div><b>Sarah Pugachev 
   <tr>
   <td><div style="width:100px;float:left;margin:10px"><img 
 src="/img/canino.jpg" alt="Adrienne Canino Photo"></div><div><b>Adrienne Canino</b> is a librarian, science literacy enthusiast, and sci-fi fan. Her work experience has stretched from environmental outreach program coordination to data librarianship. She earned a Masters in Professional Studies in Environmental Studies from State University of New York College of Environmental Science and Forestry in 2014 and a Masters in Library and Information Science from Syracuse University in 2018. Her career has included leading cross-departmental initiatives in data literacy and research data services, digital archiving work, coordinating a youth conservation corps program, and planting many trees.</div></td></tr> 
+  <td><div style="width:100px;float:left;margin:10px"><img 
+src="/img/zws.jpg" alt="Zoë Wilkinson Saldaña Photo"></div><div><b>Zoë Wilkinson Saldaña </b> is a librarian, educator, and open source developer. She currently works as a Data Instructional Specialist at the Children’s Hospital of Philadelphia, and previously worked as a Social Science and Geospatial Data Librarian at Cornell University. Zoë is also a fellow for the Visualizing the Future Symposia, an IMLS-funded national forum on data visualization in libraries. Zoë is interested in critical data science, pedagogy, and playing lots of pinball.</div></td></tr> 
 </table>
 

@@ -8,7 +8,7 @@ subtitle: Libraries & Data Carpentries Workshop
 
 Venue | Dates | Topic
 ---|---|---
-Colgate University | June 19 | NYDCLC Data Symposium
+Colgate University | Summer 2020 | NYDCLC Data Symposium
 
 ## Past Workshops
 

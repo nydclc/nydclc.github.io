@@ -8,13 +8,14 @@ subtitle: Libraries & Data Carpentries Workshop
 
 Venue | Dates | Topic
 ---|---|---
-Port Watson Mini-Conference Center, Cortland | March 5 & 6 | [Data Carpentry (Social Sciences)](https://nydclc.github.io/2020-03-05-Cortland/)
+
 Colgate University | June 19 | NYDCLC Data Symposium
 
-## Fall 2019 Workshops
+## Past Workshops
 
 Venue | Dates | Lessons
 ---|---|---
+Port Watson Mini-Conference Center, Cortland | March 5 & 6, 2020 | [Data Carpentry (Social Sciences)](https://nydclc.github.io/2020-03-05-Cortland/)
 SUNY-Oneonta | October 25, 2019 | [Library Carpentry - Intro to Data and OpenRefine](https://nydclc.github.io/2019-10-25-oneonta/)
 Henrietta Library Public Library (Rochester) | November 1, 2019 | [Library Carpentry - Intro to Data, Intro to Git: Pages, and Tidy Data: Spreadsheets](https://nydclc.github.io/2019-11-01-rochester/)
 

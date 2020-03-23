@@ -12,7 +12,7 @@ Colgate University | June 19 | NYDCLC Data Symposium
 
 ## Past Workshops
 
-Venue | Dates | Lessons
+Venue | Dates | Lessons 
 ---|---|---
 Port Watson Mini-Conference Center, Cortland | March 5 & 6, 2020 | [Data Carpentry (Social Sciences)](https://nydclc.github.io/2020-03-05-Cortland/)
 SUNY-Oneonta | October 25, 2019 | [Library Carpentry - Intro to Data and OpenRefine](https://nydclc.github.io/2019-10-25-oneonta/)

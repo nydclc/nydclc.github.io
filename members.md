@@ -64,7 +64,7 @@ photo"></div><div><b>Emily Sherwood</b> is Director of the Digital Scholarship L
 <table>
   <tr>
   <td><div style="width:100px;float:left;margin:10px"><img 
-src="/img/pugachev.jpg" alt="Sarah Pugachev Photo"></div><div><b>Sarah Pugachev </b> is the Research Initiatives at the University of Rochester. In this role, she works with partners across campus on projects to increase the visibility of scholarship and better understand research impact.  She is passionate about helping librarians and researchers develop digital skills. Sarah has been involved with The Carpentries as an instructor since 2016 and as an instructor trainer since 2018. </div></td></tr> 
+src="/img/pugachev.jpg" alt="Sarah Pugachev Photo"></div><div><b>Sarah Pugachev </b> is the Director of Research Initiatives at the University of Rochester. In this role, she works with partners across campus on projects to increase the visibility of scholarship and better understand research impact.  She is passionate about helping librarians and researchers develop digital skills. Sarah has been involved with The Carpentries as an instructor since 2016 and as an instructor trainer since 2018. </div></td></tr> 
 </table>
 
 
